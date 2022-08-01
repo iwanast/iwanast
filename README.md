@@ -6,9 +6,7 @@
 
  :computer: I’m studying as a frontend developer since August 2021 in Hyper Island. 
 
-🔭 I’m looking for an internship in Switzerland / around Zürich or remote from the end of September 2022
-
-💬 Ask me about Sci-Fi and fantasy books, family-life, biking  
+💬 Ask me about fantasy books, family-life and biking.  
 </p>
 
 ⚡ Fun facts:
