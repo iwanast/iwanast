@@ -2,9 +2,9 @@
 <h3 align="center"> </h3>
 
 <p>
-🌱 I’m a newly turned Frontend enthusiast
+🌱 I’m a newly graduated Frontend enthusiast from Hyper Island.
 
- :computer: I’m studying as a frontend developer since August 2021 in Hyper Island. 
+ :computer: Junior Frontend Developer. 
 
 💬 Ask me about fantasy books, family-life and biking.  
 </p>
