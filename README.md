@@ -9,14 +9,6 @@
 💬 Ask me about fantasy books, family-life and biking.  
 </p>
 
-⚡ Fun facts:
-<p align= "center">
-<img src="https://github-readme-stats.vercel.app/api?username=iwanast&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true" width="450"/> 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwanast&theme=midnight-purple&layout=compact/" width="259"/>
-</p>
-
-
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
